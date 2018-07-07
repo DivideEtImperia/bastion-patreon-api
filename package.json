@@ -1,0 +1,18 @@
+{
+  "name": "bastion-patreon-api",
+  "version": "0.0.1",
+  "description": "Patreon API Wrapper Library used by Bastion Bot.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheBastionBot/bastion-patreon-api.git"
+  },
+  "author": "Sankarsan Kampa",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TheBastionBot/bastion-patreon-api/issues"
+  },
+  "homepage": "https://github.com/TheBastionBot/bastion-patreon-api"
+}
